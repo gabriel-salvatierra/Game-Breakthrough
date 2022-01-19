@@ -11,4 +11,4 @@ Block breaker game from **Game Maker Studio 2** tutorial
 5. In unzipped folder doubleclick `Breakthrough.exe`
 6. Enjoy!
 
-![LevelImage](screenshots/Image1.PNG)
+![GameImage](screenshots/Image1.png)
